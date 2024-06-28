@@ -1,5 +1,5 @@
-# BrainMoNoCle
-Brain Morphology Normative modelling platform for abnormality and Centile estimation: Brain MoNoCle
+# Brain MoNoCle
+Brain Morphology Normative modelling platform for abnormality and Centile estimation (Brain MoNoCle)
 
 This repository contains mesial temporal lobe epilepsy (mTLE) data from the IDEAS dataset (Taylor et al. 2024). This can be run with our normative model pipeline Brain MoNoCle (https://cnnplab.shinyapps.io/normativemodelshiny/). More information about Brain MoNoCle can be found in our latest pre-print (https://arxiv.org/abs/2406.01107).
 
