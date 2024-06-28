@@ -5,9 +5,4 @@ This repository contains mesial temporal lobe epilepsy (mTLE) data from the IDEA
 
 The file "IDEAS_CNNP.csv" contains data for the independent components of cortical morphology, which were produced using our Crotical Folding Toolbox (https://github.com/cnnp-lab/CorticalFoldingAnalysisTools)
 
-Abbreviations:
-CT = cortical thickness
-CV = cortical volume
-SA = (pial) surface area
-rh = right hemisphere
-lh = left hemisphere
+Abbreviations: CT = cortical thickness; CV = cortical volume; SA = (pial) surface area; rh = right hemisphere; lh = left hemisphere.
