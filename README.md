@@ -9,7 +9,7 @@ More information about Brain MoNoCle can be found in our latest pre-print (Littl
 
 This repository contains mesial temporal lobe epilepsy (mTLE) data from the IDEAS dataset (Taylor et al., 2024)[https://arxiv.org/abs/2406.06731]. This can be run with our normative model pipeline Brain MoNoCle. 
 
-The file "IDEAS_CNNP.csv" contains data for the independent components of cortical morphology, which were produced using our Cortical Folding Toolbox (https://github.com/cnnp-lab/CorticalFoldingAnalysisTools)
+The files named "IDEAS_CNNP_xxx.csv" contain data for the independent components of cortical morphology, which were produced using our Cortical Folding Toolbox (https://github.com/cnnp-lab/CorticalFoldingAnalysisTools)
 
 Files ending in "lh" and "rh" contain cortical structural measures obtained from FreeSurfer. 
 Abbreviations: CT = cortical thickness; CV = cortical volume; SA = (pial) surface area; rh = right hemisphere; lh = left hemisphere. 
